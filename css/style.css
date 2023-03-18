@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
   padding: 5rem 0;
   font-size: clamp(1rem, 2.5vw, 1.125rem);
-     background:repeat-x  url(../assets/img/bg3.gif);
+     background:  url(../assets/img/bg3.gif);
 	background-size: 50%;
 }
 
